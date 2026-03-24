@@ -1,7 +1,7 @@
 ## PYTHON PROGRAMMING MODULE 1
 
-## NAME: LOGA SRI M
-## REGISTER NUMBER: 212225230153
+## NAME: RAKISHA R
+## REGISTER NUMBER: 212225230223
 
 ## Ex 01: Conditional Statements in Python: Even or Odd Checker
 
